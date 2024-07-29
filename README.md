@@ -23,7 +23,7 @@ Certif-Up addresses these challenges by automating and streamlining the entire c
 
 
 ### Repositories
-- **Frontend Repository**:
+- **Frontend Repository**: https://github.com/Fahedmb/CertifUp-Frontend
 - **Frontend Staging**: 
 - **Frontend Production**: 
   

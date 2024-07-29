@@ -1,6 +1,6 @@
-![Certif-Up Logo](https://github.com/Fahedmb/CertifUp-Frontend/blob/main/src/assets/images/logos/certifup_logo.png)
-
-# Certif-Up Project Overview
+<p align="center">
+  <img src="https://github.com/Fahedmb/CertifUp-Frontend/blob/main/src/assets/images/logos/certifup%20Logo%20Small.png" alt="Certif-Up Logo" />
+</p>
 
 ## Introduction
 Welcome to the Certif-Up project repository! This project aims to streamline and automate the certification process at Tek-Up. Below you'll find detailed information about each component and relevant links.

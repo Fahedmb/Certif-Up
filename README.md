@@ -34,7 +34,8 @@ Certif-Up addresses these challenges by automating and streamlining the entire c
 - **Swagger Documentation**: 
 
 ## Development Workflow
-- **Branch Naming**: Use descriptive branch names for clarity (e.g., feature/dynamic-catalog).
+- **Linear**: Track all tickets at Certif-Up on Linear
+- **Branch Naming**: Match branch names with ticket IDs (e.g., HER-853) for automatic tracking in Linear.
 - **Pull Requests**: Ensure all code changes are reviewed via pull requests before merging.
 - **Deployment**:
   - **Staging**: Automated builds via GitHub Actions on main branch updates or pull request merges.
